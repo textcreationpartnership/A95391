@@ -1,0 +1,560 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>White-Hall in flames. A pindarick poem. : Occasion'd by the late burning of that royal palace. / By Mr. Tutchin.</title>
+            <author>Tutchin, John, 1661?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95391</idno>
+            <idno type="STC">Wing T3385</idno>
+            <idno type="STC">ESTC R185808</idno>
+            <idno type="EEBO-CITATION">43077725</idno>
+            <idno type="OCLC">ocm 43077725</idno>
+            <idno type="VID">152148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152148)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2278:5a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>White-Hall in flames. A pindarick poem. : Occasion'd by the late burning of that royal palace. / By Mr. Tutchin.</title>
+                  <author>Tutchin, John, 1661?-1707.</author>
+               </titleStmt>
+               <extent>[4], 5-20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within double line border.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+                  <note>With: To the electors of the City of London. [London] : R. Clay, printer, [1835].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitehall Palace (London, England) --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152148:1" rendition="simple:additions"/>
+            <pb facs="tcp:152148:2"/>
+            <pb facs="tcp:152148:2"/>
+            <head>
+               <hi>WHITE-HALL</hi> in FLAMES. A Pindarick Poem. Occaſion'd by <hi>The late Burning</hi> OF THAT Royal Palace.</head>
+            <p>By Mr. TUTCHIN.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1698. Price 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152148:3"/>
+            <pb facs="tcp:152148:3"/>
+            <head>To the Right Honourable the Earl of <hi>MON<g ref="char:EOLhyphen"/>TAGU,</hi> Viſcount Mount <hi>Hermon,</hi> Ba<g ref="char:EOLhyphen"/>ron <hi>Montagu,</hi> Maſter of His Majeſty's <hi>Wardrobe,</hi> and one of His Majeſty's moſt Honourable Privy-Council.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>TO prefix a noble Name to ſo in<g ref="char:EOLhyphen"/>conſiderable a <hi>Trifle</hi> as this, may juſtly be eſteem'd a piece of the higheſt Arrongance; but the weak<g ref="char:EOLhyphen"/>eſt Things need the greateſt Suport: Nor can we blame a deſpicable Animal for retiring to a noble Shelter. The late <hi>Conflagration,</hi> which has made a rui<g ref="char:EOLhyphen"/>nous Heap of the <hi>Royal Palace,</hi> muſt needs affect the moſt ſordid Spirits, much more thoſe of the <hi>Court,</hi> in whoſe <hi>Horizon,</hi> Your <hi>Lordſhip</hi> is a Star of the
+<pb facs="tcp:152148:4"/> firſt Magnitude: From a juſt Reſent<g ref="char:EOLhyphen"/>ment of this great Loſs, the Deſtruction of the <hi>Royal Palace</hi> of our <hi>Britiſh Mo<g ref="char:EOLhyphen"/>narch,</hi> did I attempt the following <hi>Poem;</hi> its haſty Performance will admit of no Beauties in it, being writ in far leſs time than the <hi>Royal Palace</hi> was burning: And therefore if <hi>Your Lordſhip</hi> commit it to the <hi>Flames,</hi> from whence it had its Ori<g ref="char:EOLhyphen"/>ginal, I ſhall not eſteem it a too rigo<g ref="char:EOLhyphen"/>rous Sentence: But Experience has taught me, That <hi>Your Lordſhip</hi> can di<g ref="char:EOLhyphen"/>ſpence Your Favours where there is no Merit, which embolden'd me to take this Opportunity of deſiring the con<g ref="char:EOLhyphen"/>tinuance of them to,</p>
+            <closer>
+               <signed>
+                  <hi>My very good LORD, Your Lordſhip's moſt oblig'd, devoted humble Servant,</hi> JOHN TUTCHIN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="pindaric_poem">
+            <pb n="5" facs="tcp:152148:4"/>
+            <head>White-Hall in FLAMES. A Pindarick POEM. Occaſion'd by the late Burning, &amp;<hi>c.</hi>
+            </head>
+            <lg>
+               <head>I.</head>
+               <l>HOW many turns of Fate we Mortals find,</l>
+               <l>While Life's dull Pilgrimage we go?</l>
+               <l>How weak, our Bulwarks prove</l>
+               <l>When ſtorm'd by Almighty <hi>Jove?</hi>
+               </l>
+               <l>Who hoard up Thunder, Storms of Rain and Wind;</l>
+               <l>Sometimes he darts his Bolts, his Billows rave,</l>
+               <l>His forked Lightning ſpreads, his Winds do blow;</l>
+               <l>Raiſes the Mother Waters from their Cell,</l>
+               <l>In Earthy Caverns where they dwell,</l>
+               <l>And for their infant Springs apartments have:</l>
+               <pb n="6" facs="tcp:152148:5"/>
+               <l>sometimes unlinks the Chains of the vaſt Sea,</l>
+               <l>Which now no longer do the Rocks obey,</l>
+               <l>But overflow and drown the fertile Earth,</l>
+               <l>Which had from <hi>Jove</hi> its Form and its Birth:</l>
+               <l>Unbiaſs'd Fate does not preferr</l>
+               <l>The Kingly Palaces</l>
+               <l>To the low Hovel of the Cottager;</l>
+               <l>Alike o'er both the Waves increaſe;</l>
+               <l>'Twixt Prince and Peaſant no diſtinction's found,</l>
+               <l>In the ſame Waves they ſwim, in the ſame Deluge drown'd.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>Fate has ten thouſand other ways,</l>
+               <l>Our fond eſtabliſh'd Hopes to raze,</l>
+               <l>The Winds, the Clouds, the Sea, the Land,</l>
+               <l>Waiting its beck and motion ſtand,</l>
+               <l>And trembling Nature is at its command.</l>
+               <l>
+                  <hi>Jove</hi> ſpeaks the Word,</l>
+               <l>And the whole Machine ſhakes,</l>
+               <l>The Storms do roar, and Lightnings fly,</l>
+               <l>With pointed <hi>Terror,</hi> round th' affrighted Sky:</l>
+               <l>Here the Earth opens, there it quakes:</l>
+               <l>Fate whets its broad deſtroying Sword.</l>
+               <l>No Enemy more dangerous is,</l>
+               <pb n="7" facs="tcp:152148:5"/>
+               <l>It's Warriors fierce and cruel do ſurpriſe,</l>
+               <l>Their fatal Darts do ſeldom miſs;</l>
+               <l>Fate fights, and kills, and lays no heaps;</l>
+               <l>A bloody Harveſt reaps;</l>
+               <l>Yet all it's Weapons undiſcover'd by our Eyes.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>But one more dreadfull than the reſt,</l>
+               <l>No pois'nous Serpent, nor no ſavage Beaſt,</l>
+               <l>Thirſting for Blood, does thro' the Foreſt roar,</l>
+               <l>Nor with more eagerneſs the Prey devour:</l>
+               <l>When Fate this Inſtrument aſſumes,</l>
+               <l>It human Minds with Terror fills,</l>
+               <l>Without diſtinction kills;</l>
+               <l>All things before it, it conſumes,</l>
+               <l>Before it all things fall;</l>
+               <l>This Inſtrument of Death, we <hi>Fire</hi> call:</l>
+               <l>A ſtrange rapacious Foe,</l>
+               <l>Ten thouſand <hi>Hydra's</hi> does contain;</l>
+               <l>If to diſmember it we go,</l>
+               <l>Prolifick Embers ſtill remain,</l>
+               <l>Which Fate puffs up unto a blaze;</l>
+               <l>The direful Flames increaſe,</l>
+               <l>Curling their Head, and darting Death</l>
+               <l>At the unthinking Crowd beneath,</l>
+               <l>Storm our Houſes, and our Buildings raze.</l>
+            </lg>
+            <pb n="8" facs="tcp:152148:6"/>
+            <lg>
+               <head>IV.</head>
+               <l>But why ſhould Fate command its Flames</l>
+               <l>Our mighty <hi>WILLIAM</hi>'s Palace to attack?</l>
+               <l>Did it a Subject lack?</l>
+               <l>To wreak its Vengeance on?</l>
+               <l>It might as well have gone</l>
+               <l>To the Extreams</l>
+               <l>Of the cold icy frozen North,</l>
+               <l>Where the chill'd Mortals Heat requrie;</l>
+               <l>They would have thank'd it for its Fire.</l>
+               <l>If nought but Kingly Palaces</l>
+               <l>Could Fates devouring Wrath appeaſe;</l>
+               <l>It might as well have ſent its <hi>Engine</hi> forth</l>
+               <l>Towards he ſultry Regions of the South;</l>
+               <l>There, there it might a Tyrant find,</l>
+               <l>Neither to Laws of God nor Man confin'd;</l>
+               <l>There, there it might with equal Rage devour,</l>
+               <l>With equal Fury ſeiſe</l>
+               <l>His Palaces;</l>
+               <l>As he his Subjects with Deſpotick Pow'r:</l>
+               <l>Thoſe Regions yield</l>
+               <l>Monarchs, that ſpend their Days</l>
+               <l>In Luxury and Eaſe,</l>
+               <l>And dread the Hardſhips of a Martial Field:</l>
+               <pb n="9" facs="tcp:152148:6"/>
+               <l>The Tenement does hold</l>
+               <l>A Prince, who ne'er his Valour ſhew,</l>
+               <l>Who ne'er a glorious Action knew;</l>
+               <l>In Battels weak, in Murders bold;</l>
+               <l>Fooliſh, yet inſolent and proud;</l>
+               <l>Contemn'd, and hated by the Crowd'</l>
+               <l>Was a fit Subject for the Hate,</l>
+               <l>The Rage, and Fury of devouring Fate.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>
+                  <hi>WILLIAM,</hi> whoſe Fame does brighter ſhine,</l>
+               <l>Than all the Praiſe dull Annals boaſt,</l>
+               <l>Of mighty <hi>Caefar, Conſtantine,</hi>
+               </l>
+               <l>
+                  <hi>Pompey,</hi> or all that ancient Race:</l>
+               <l>No greater Man did e'er Command an Hoſt!</l>
+               <l>Brighter by far,</l>
+               <l>His Vertues are,</l>
+               <l>Than the birght Fire,</l>
+               <l>In which his Princely Palace did expire.</l>
+               <l>A River cou'd not once his Paſſage ſtop,</l>
+               <l>When on the Banks the Forces join,</l>
+               <l>And draw their large Battalions up,</l>
+               <l>Of His and <hi>England</hi>'s Foes;</l>
+               <pb n="10" facs="tcp:152148:7"/>
+               <l>He bravely did their Front oppoſe,</l>
+               <l>Drove Death before Him thro' th' affrighted <hi>Boys.</hi>
+               </l>
+               <l>But who to fight with Flames did go?</l>
+               <l>A ſtrange uncommon Foe!</l>
+               <l>Yet had there been,</l>
+               <l>Beyond the Flames, an <hi>Army</hi> ſeen,</l>
+               <l>An Enemy me'r ſo brave,</l>
+               <l>Deſigning <hi>England</hi> to enſlave,</l>
+               <l>He ſoon His Country had reveng'd,</l>
+               <l>Paſs'd through the Flames unhurt, unſing'd.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>The Flames do now uſurp the Sway;</l>
+               <l>The ſlaviſh Buildings their Commands obey:</l>
+               <l>
+                  <hi>Vulcan,</hi> the faſtly God of Fire,</l>
+               <l>Quits his Command,</l>
+               <l>His deform'd <hi>Cyclops</hi> ſtand</l>
+               <l>Amas'd, and at the raging Flames admire.</l>
+               <l>The Flames no difference do know,</l>
+               <l>Without diſtinction go,</l>
+               <l>From Servants Lodgings, to each beauteous Pile;</l>
+               <l>Each gawdy Tenement annoy;</l>
+               <l>With crackling Horror ſpread</l>
+               <pb n="11" facs="tcp:152148:7"/>
+               <l>O're every Vulgar and each Noble Head,</l>
+               <l>And with impetuous Fury do deſtroy</l>
+               <l>The ancient Glory of our <hi>Britiſh Iſle.</hi>
+               </l>
+               <l>Vaſt Crowds reſort;</l>
+               <l>Rous'd by the dread report:</l>
+               <l>They come, and tremble as they ſtand,</l>
+               <l>Their ſinking Spirits can't their Limbs command:</l>
+               <l>All in amaze,</l>
+               <l>They at the dreadful Fire gaze;</l>
+               <l>Lament the Death of the expiring Court.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>But ſome, more vig'rous than the reſt,</l>
+               <l>With leſs Confuſion fill'd,</l>
+               <l>Th' increaſing Flames beheld:</l>
+               <l>More active Courage they expreſt,</l>
+               <l>Some take their Buckets to the <hi>Thames;</hi>
+               </l>
+               <l>Whoſe winding Silver Streams</l>
+               <l>Do now but gently flow,</l>
+               <l>Stopping their Courſe, as if they meant to know</l>
+               <l>How the Illuſtrious Buildings were.</l>
+               <l>The affrighted <hi>Fiſh</hi> retire</l>
+               <l>To th' other ſide, they ſaw the diſmal Fire,</l>
+               <pb n="12" facs="tcp:152148:8"/>
+               <l>And thought each Flame a Kitchen there.</l>
+               <l>One takes the Water, and enrag'd,</l>
+               <l>Is with the Flames engag'd.</l>
+               <l>The Flames paſt at him ſwift as Fate,</l>
+               <l>And he as ſwift does with his Buckets fence.</l>
+               <l>His Ammunition by the Fire dry'd,</l>
+               <l>His by the Crowd with a freſh force ſupply'd:</l>
+               <l>When he does fight at ſuch a Rate,</l>
+               <l>You'd think him a <hi>Colloſſe</hi> of Braſs;</l>
+               <l>From whence</l>
+               <l>Water did ſpout; but Flames do paſs</l>
+               <l>Around his Head, and he is forc'd to yield,</l>
+               <l>Leaving the Victor in a conquer'd Field.</l>
+            </lg>
+            <lg>
+               <head>VIII.</head>
+               <l>But what is Force in ſuch Extreams?</l>
+               <l>And who can fence with <hi>Flames?</hi>
+               </l>
+               <l>To Policy they now retire;</l>
+               <l>Since they can't conquer, they contrive</l>
+               <l>To ſtop the force of the inſulting <hi>Fire:</hi>
+               </l>
+               <l>They do their utmoſt, hard they ſtrive,</l>
+               <l>They think it proper to remove</l>
+               <l>Such Parts above,</l>
+               <pb n="13" facs="tcp:152148:8"/>
+               <l>On which the Fire next would ſeize:</l>
+               <l>Strait one aſcends unto the top,</l>
+               <l>Hoping it's Violence to ſtop;</l>
+               <l>As ſoon as he the <hi>Flames</hi> attack'd,</l>
+               <l>He was by others back'd:</l>
+               <l>None prov'd more deſperate than theſe:</l>
+               <l>Of theſe, thoſe Giants had but little odds,</l>
+               <l>Who on <hi>Olympus</hi> Hill oppos'd the Gods.</l>
+               <l>The <hi>Flames</hi> new Methods too purſue,</l>
+               <l>They do their hidden Force renew;</l>
+               <l>And while theſe Men aloft do go,</l>
+               <l>They ſlily burn below;</l>
+               <l>United <hi>Flames</hi> combine</l>
+               <l>The Buildings t' undermine,</l>
+               <l>While the bold <hi>Heroes</hi> on the top do crawl,</l>
+               <l>They the Foundations ſap,</l>
+               <l>And dire miſhap;</l>
+               <l>The <hi>Heroes</hi> with the Buildings downwards fall.</l>
+            </lg>
+            <lg>
+               <head>IX.</head>
+               <l>This Project failing they retire</l>
+               <l>To other Methods, how to ſtop the Fire;</l>
+               <l>They find in vain they ſtrove,</l>
+               <pb n="14" facs="tcp:152148:9"/>
+               <l>Water does unſucceſsful prove;</l>
+               <l>One thinks it right,</l>
+               <l>Such bold attempting Foes</l>
+               <l>They with new Fire ſhould oppoſe,</l>
+               <l>And with their own inſulting Weapons fight.</l>
+               <l>The Guards are now to their aſſiſtance brought:</l>
+               <l>Thoſe Guards which breathe</l>
+               <l>Nothing but Blood and Death;</l>
+               <l>Whoſe Valour all the wondring World admites;</l>
+               <l>In Head of whom our mighty <hi>WILLIAM</hi> fought,</l>
+               <l>Large Trophies won,</l>
+               <l>Immortal Garlands of Renown:</l>
+               <l>Acquainted with more dread and diſmal Fires,</l>
+               <l>Theſe preſently prepare</l>
+               <l>The horrid Inſtruments of War,</l>
+               <l>Their helliſh Powder place</l>
+               <l>Within the Walls, compreſs'd by weight,</l>
+               <l>They lay their Trains, and ſtraight</l>
+               <l>The mighty Blow is heard;</l>
+               <l>Which makes even <hi>Fate</hi> it ſelf afraid;</l>
+               <l>Which ſtanding by, ſtares the attempters in the face,</l>
+               <l>Aſham'd to own</l>
+               <l>Its ſelf by human Gallantry outdone.</l>
+            </lg>
+            <pb n="15" facs="tcp:152148:9"/>
+            <lg>
+               <head>X.</head>
+               <l>Had <hi>WILLIAM</hi> but as many <hi>Foes</hi>
+               </l>
+               <l>As Sparks do from theſe <hi>Flames</hi> ariſe;</l>
+               <l>Or Sands we in the Mortar find,</l>
+               <l>Which does the Buildings in contiguous order bind,</l>
+               <l>How willingly wou'd they oppoſe?</l>
+               <l>How daringly deſpiſe</l>
+               <l>His and the Nations Enemies?</l>
+               <l>With Him they've paſt</l>
+               <l>Regions, o're deſolate and waſte;</l>
+               <l>With Him they've gone</l>
+               <l>Pinch'd by the Cold and ſcorch'd by the hot Sun;</l>
+               <l>Have ſometimes cut their Paſſage thro' the Sreams;</l>
+               <l>But who, the Devil, can contend with <hi>Flames?</hi>
+               </l>
+               <l>Which if we do in one Place rout,</l>
+               <l>Strait in another do break out,</l>
+               <l>And do Deſtruction o're the whole diſpenſe;</l>
+               <l>In vain we fence,</l>
+               <l>In vain we ſtrive,</l>
+               <l>Our Deſtiny we can't retrieve,</l>
+               <l>Or Limits to their waſting Fury give;</l>
+               <l>Their Rage admits no bar;</l>
+               <l>Curling their Head, they threaten Death from far.</l>
+            </lg>
+            <pb n="16" facs="tcp:152148:10"/>
+            <lg>
+               <head>XI.</head>
+               <l>But now another ſort of Men appear,</l>
+               <l>Compleatly arm'd for the fiery War,</l>
+               <l>For ſuch like Enterpriſes train'd,</l>
+               <l>And have long time the Guards remain'd</l>
+               <l>Of fair <hi>Auguſta,</hi> when inſulting Fire</l>
+               <l>Her Houſes did attack,</l>
+               <l>Theſe did oppoſe</l>
+               <l>And quell'd her fiery Foes;</l>
+               <l>Reſcu'd at once their Wealth and State,</l>
+               <l>From the dire Inſults of Fate:</l>
+               <l>As great <hi>Aeneas</hi> on his Back</l>
+               <l>Bore thro' the Flames his aged Sire.</l>
+               <l>But Fate afraid that theſe</l>
+               <l>Wou'd the deſtroying Flames appeaſe,</l>
+               <l>With greater force drives on</l>
+               <l>The fell Deſtruction:</l>
+               <l>Around the Palace does its <hi>Engines</hi> ſend,</l>
+               <l>With greater Fury than before;</l>
+               <l>The Flames devour,</l>
+               <l>They crackle, blaze, and roar,</l>
+               <l>Their Force on every Angle bend;</l>
+               <l>Nor Brick, nor Stone, nor Wood they ſpare,</l>
+               <l>But all things fall in this deſtructive War.</l>
+               <pb n="17" facs="tcp:152148:10"/>
+               <l>Of <hi>White-Hall</hi> now is only left the Name,</l>
+               <l>Its Beauty's gone</l>
+               <l>Does like the <hi>Aethiops</hi> lie,</l>
+               <l>Which in hot <hi>Affrick</hi>'s ſandy Regions fry,</l>
+               <l>Scorch'd by the Heat of a more Torrid Sun:</l>
+               <l>Here Houſes levell'd with the Ground,</l>
+               <l>There Heaps of Rubbiiſh lie;</l>
+               <l>Yonder are mangl'd Pillars found,</l>
+               <l>Whole Stacks of Chimnies thrown,</l>
+               <l>And Bricks like Bullets blown,</l>
+               <l>Do upwards fly,</l>
+               <l>As if they meant to attempt the Bulwarks of the Sky:</l>
+               <l>All the ſame Fate muſt have,</l>
+               <l>One common Grave;</l>
+               <l>All muſt in Univerſal Ruine lie.</l>
+               <l>Scarce could the Induſtry,</l>
+               <l>Of <hi>Machiavilian</hi> Policy,</l>
+               <l>Save from devouring Fate,</l>
+               <l>The Books and Records of the <hi>Britiſh</hi> State.</l>
+            </lg>
+            <lg>
+               <pb n="18" facs="tcp:152148:11"/>
+               <head>XIII.</head>
+               <l>To every Angle now the Flames extend</l>
+               <l>With rapid Force,</l>
+               <l>Without Remorſe,</l>
+               <l>In pieces rend,</l>
+               <l>Building which did ſome hundred Years engage,</l>
+               <l>Th' Aſſaults of eating Time and Age.</l>
+               <l>But now, behold</l>
+               <l>How rav'nous and how bold,</l>
+               <l>The impious Flames do ſeiſe</l>
+               <l>On Great <hi>MARIA</hi>'s Lodging Place:</l>
+               <l>The Great <hi>MARIA,</hi> whoſe bleſt Name we own,</l>
+               <l>Tho' to th' <hi>Aetherial</hi> Regions She is gone:</l>
+               <l>Had She been living now,</l>
+               <l>With ſuch a Face, and ſuch a Brow,</l>
+               <l>She would the raging Deſtinies oppoſe,</l>
+               <l>And quell theſe ſcorching Foes:</l>
+               <l>That Fate in vain ſhou'd its dull Tapers light,</l>
+               <l>Augmented by the darkneſs of of the Night:</l>
+               <l>Its yielding Fire,</l>
+               <l>Before Her brighter Vertues wou'd retire;</l>
+               <l>As the pale Luſtre of the nightly Moon,</l>
+               <l>Retreats before the riſing of the Sun.</l>
+            </lg>
+            <pb n="19" facs="tcp:152148:11"/>
+            <lg>
+               <head>XIV.</head>
+               <l>Let Fate Her Lodgings now engage,</l>
+               <l>There try its utmoſt Rage,</l>
+               <l>Thither no Succour ſend, give no Relief;</l>
+               <l>What does of Her remain,</l>
+               <l>Can but augment out Pain;</l>
+               <l>Her very Mem'ry does increaſe our Grief:</l>
+               <l>Juſt as She went away</l>
+               <l>To the bleſt Empires of Eternal Day,</l>
+               <l>Had rummag'd all its Stores of Death,</l>
+               <l>Depriv'd unhappy Mortals of their Breath;</l>
+               <l>How eaſily we cou'd prevent</l>
+               <l>Its raging Force,</l>
+               <l>And ſtop its Courſe:</l>
+               <l>Then, then our Tears did freely flow,</l>
+               <l>Whoſe briny Deluge wou'd the Fire quench;</l>
+               <l>The mournful Flood</l>
+               <l>Would drown'd its Fury, and it wou'd</l>
+               <l>Its thirſty Soul in briny Liquor drench:</l>
+               <l>We then could Fate it ſelf ſurpriſe;</l>
+               <l>Sunk in the mighty Deluge of our Eyes.</l>
+            </lg>
+            <pb n="20" facs="tcp:152148:12"/>
+            <lg>
+               <head>XV.</head>
+               <l>Juſt as the undigeſted <hi>Chaos</hi> lay,</l>
+               <l>When Time and all the Elements did commence,</l>
+               <l>Form'd by Omnipotence,</l>
+               <l>And gaſtly Night did uſher in the Day:</l>
+               <l>Juſt ſo the Palace lies in pieces burſt;</l>
+               <l>Rude as the World when 'twas created firſt.</l>
+               <l>But while we do relate</l>
+               <l>The dire Decrees, reſolves of Fate,</l>
+               <l>And of its Juſtice, do enquire,</l>
+               <l>Why ſhould this Palace thus be purg'd with Fire?</l>
+               <l>Here 'twas that Helliſh Plot was laid,</l>
+               <l>Which of our City one great <hi>Bonfire</hi> made;</l>
+               <l>Contriv'd by thoſe</l>
+               <l>Whoſe numerous Crimes augment their Parents Score,</l>
+               <l>And vilely had before,</l>
+               <l>Burnt their ſolemn <hi>Leagues,</hi> and broke both <hi>Vow</hi> and <hi>Oaths.</hi>
+               </l>
+               <l>When the vaſt Deluge overflow'd the Earth,</l>
+               <l>It gave the drownded World a better Birth:</l>
+               <l>
+                  <hi>London</hi> did thus from heaps of Rubbiſh riſe,</l>
+               <l>Start up with Piramids do threat the Skies.</l>
+               <l>Thus may the Royal Palace, brought ſo low,</l>
+               <l>A <hi>Phoenix</hi> riſe, in comely Order too,</l>
+               <l>Glorious as mighty <hi>WILLIAM</hi> is in Deeds,</l>
+               <l>O're-topping all, as Gaints common Heads.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152148:12"/>
+            <pb facs="tcp:152148:12"/>
+            <pb facs="tcp:152148:13"/>
+            <pb facs="tcp:152148:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
